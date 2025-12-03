@@ -53,3 +53,8 @@ C -> Class, L -> Level
 * (20) Archer → (21) Crossbowman → (22) Arbalester
 * (30) Long Swordsman → (31) Twohanded Swordsman → (32) Champion
 
+## Contact
+- [Twitter](https://x.com/blacksky_jose)
+- [Telegram](https://t.me/blacksky_jose)
+- [Discord](https://discord.gg/blacksky_jose)
+
